@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="kr.ac.jbnu.se.doview.java.MainActivity">
+
+    <Button
+        android:id="@+id/test_button"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        tools:layout_editor_absoluteX="105dp"
+        tools:layout_editor_absoluteY="265dp" />
+
+</android.support.constraint.ConstraintLayout>
